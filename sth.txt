@@ -4,3 +4,8 @@ Let's try to make some changes.
 Make another change on nano using terminal.
 :)
 
+Good stuff list (to be updated)
+---------------------
+cats
+human
+lakes
